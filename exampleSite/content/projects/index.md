@@ -21,8 +21,8 @@ Một vài project của tôi
 
   {{< card
         link="https://github.com/xuanvinh1997/math_ocr"
-        title="LLM-based Voice assistant on Edge device"
-        image="https://github.com/xuanvinh1997/voice-assistant/blob/496709da9d32bc38e70e4493ee1cb1b779abdb42/images/screenshot.png?raw=true"
+        title="Free alternative to Mathpix using Google gemini API"
+        image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/688px-Google_Gemini_logo.svg.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
