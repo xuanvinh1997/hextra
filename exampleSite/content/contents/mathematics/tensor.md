@@ -41,7 +41,6 @@ Trong một số tài liệu cũ, người ta dùng cụm “rank-(k,l) object�
 ## 2. Các ví dụ quan trọng
 
 ### (0,1)-Tensor = Covector
-
 Một **\((0,1)\)-tensor** lấy **một vector** làm đầu vào rồi trả về một vô hướng (scalar):
 
 \[

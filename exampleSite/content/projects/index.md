@@ -19,6 +19,12 @@ Một vài project của tôi
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
-  
+  {{< card
+        link="https://github.com/xuanvinh1997/math_ocr"
+        title="LLM-based Voice assistant on Edge device"
+        image="https://github.com/xuanvinh1997/voice-assistant/blob/496709da9d32bc38e70e4493ee1cb1b779abdb42/images/screenshot.png?raw=true"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
 
 {{< /cards >}}
